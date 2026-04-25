@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+
+# User settings
+*.user
+*.suo
+
+# Database files
+*.mdf
+*.ldf
+
+# Config secrets
+App.config
+
+# NuGet
+packages/
+
+# Logs
+*.log
